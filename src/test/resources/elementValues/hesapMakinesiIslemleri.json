@@ -1,0 +1,35 @@
+[
+    {
+      "key": "hesapMakinesiPozitifToplamaSonuc",
+      "value": "//span[@class=\"css-1jxf684 r-zz5t5d r-vw2c0b r-1ff274t\"]",
+      "type": "xpath"
+    },
+  {
+      "key": "toplamaIsaretiButon",
+      "value": "//div[@class='css-146c3p1 r-jwli3a r-adyw6z r-vw2c0b' and text()='+']",
+      "type": "xpath"
+    },
+  {
+      "key": "esittirIsaretiButon",
+      "value": "//div[@class='css-146c3p1 r-jwli3a r-adyw6z r-vw2c0b' and text()='=']",
+      "type": "xpath"
+    }
+,
+  {
+      "key": "cikarmaIsaretiButon",
+      "value": "//div[@class='css-146c3p1 r-jwli3a r-adyw6z r-vw2c0b' and text()='-']",
+      "type": "xpath"
+    },
+  {
+      "key": "carpmaIsaretiButon",
+      "value": "//div[@class='css-146c3p1 r-jwli3a r-adyw6z r-vw2c0b' and text()='*']",
+      "type": "xpath"
+    },
+  {
+      "key": "cikarmaVirgulButon",
+      "value": "//div[@class='css-146c3p1 r-jwli3a r-adyw6z r-vw2c0b' and text()=',']",
+      "type": "xpath"
+    }
+
+
+]

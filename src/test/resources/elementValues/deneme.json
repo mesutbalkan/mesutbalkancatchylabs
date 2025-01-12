@@ -1,0 +1,34 @@
+[
+    {
+      "key": "openCalculatorBtn",
+      "value": "div[class='css-146c3p1 r-jwli3a r-1b43r93']",
+      "type": "css"
+    },
+
+  {
+      "key": "usernameInput",
+      "value": "input[placeholder='Username']",
+      "type": "css"
+    },
+  {
+      "key": "passwordInput",
+      "value": "input[placeholder='Password']",
+      "type": "css"
+    },
+  {
+      "key": "loginBtn",
+      "value": "div[class='css-146c3p1 r-jwli3a r-1b43r93']",
+      "type": "css"
+    },
+  {
+      "key": "hesapMakinesiSayfaKontrol",
+      "value": "div[class=\"css-146c3p1 r-jwli3a r-adyw6z r-vw2c0b\"]",
+      "type": "css"
+    },
+  {
+      "key": "yanlisBilgiPopUp",
+      "value": "div[class=\"css-146c3p1 r-howw7u r-1b43r93\"]",
+      "type": "css"
+    }
+
+]

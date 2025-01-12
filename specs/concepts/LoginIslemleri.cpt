@@ -1,0 +1,32 @@
+# Hesap Makinesi Adresine Git
+* "https://catchylabs-webclient.testinium.com/" adresine git
+
+# CatchyLabs Uygulamasına Giriş Yap
+* Element "usernameInput" var mı kontrol et yoksa hata mesajı ver "Hata!"
+* Elementine tıkla "usernameInput"
+* "mesut.balkan" textini "usernameInput" elemente yaz
+* Elementine tıkla "passwordInput"
+* "Mesko190707*" textini "passwordInput" elemente yaz
+* Elementine tıkla "loginBtn"
+* Element "openCalculatorBtn" var mı kontrol et yoksa hata mesajı ver "Hata!"
+
+# CatchyLabs Uygulamasına Yanlış Bilgiler İle Giriş Yap
+* Element "usernameInput" var mı kontrol et yoksa hata mesajı ver "Hata!"
+* Elementine tıkla "usernameInput"
+* "asd" textini "usernameInput" elemente yaz
+* Elementine tıkla "passwordInput"
+* "asd" textini "passwordInput" elemente yaz
+* Elementine tıkla "loginBtn"
+* Element "yanlisBilgiPopUp" var mı kontrol et yoksa hata mesajı ver "Hata!"
+* "yanlisBilgiPopUp" elementi "Username or Password Invalid!" değerini içeriyor mu kontrol et
+
+# Hesap Makinesi Uygulamasını Aç
+* Element "openCalculatorBtn" var mı kontrol et yoksa hata mesajı ver "Hata!"
+* "1" saniye bekle
+* Elementine tıkla "openCalculatorBtn"
+* Element "hesapMakinesiSayfaKontrol" var mı kontrol et yoksa hata mesajı ver "Hata! Uygulama Açılmadı!"
+
+# Hesap Makinesi Acma
+* Hesap Makinesi Adresine Git
+* CatchyLabs Uygulamasına Giriş Yap
+* Hesap Makinesi Uygulamasını Aç

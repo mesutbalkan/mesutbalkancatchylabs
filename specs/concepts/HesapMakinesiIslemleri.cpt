@@ -1,0 +1,103 @@
+# Pozitif Toplama Islemi
+* "1" saniye bekle
+* Makinede "1" rakamına tikla
+* Makinede "0" rakamına tikla
+* Makinede "0" rakamına tikla
+* Elementine tıkla "toplamaIsaretiButon"
+* Makinede "5" rakamına tikla
+* Elementine tıkla "esittirIsaretiButon"
+* "3" saniye bekle
+* Islem sonucunu dogrula "105"
+//FireFox'ta kosuldugu zaman sonuc yanlis cikmaktadir
+
+# Ondalik Sayilar Ile Toplama Islemi
+* "1" saniye bekle
+* Makinede "3" rakamına tikla
+* Elementine tıkla "cikarmaVirgulButon"
+* Makinede "5" rakamına tikla
+* Elementine tıkla "toplamaIsaretiButon"
+* Makinede "5" rakamına tikla
+* Elementine tıkla "cikarmaVirgulButon"
+* Makinede "5" rakamına tikla
+* Elementine tıkla "esittirIsaretiButon"
+* "3" saniye bekle
+* Islem sonucunu dogrula "9"
+
+# Buyuk Sayilar Ile Toplama Islemi
+* "1" saniye bekle
+* Makinede "1" rakamına tikla
+* Makinede "2" rakamına tikla
+* Makinede "3" rakamına tikla
+* Makinede "4" rakamına tikla
+* Makinede "5" rakamına tikla
+* Makinede "6" rakamına tikla
+* Makinede "7" rakamına tikla
+* Makinede "8" rakamına tikla
+* Makinede "9" rakamına tikla
+* Makinede "1" rakamına tikla
+* Makinede "2" rakamına tikla
+* Makinede "3" rakamına tikla
+* Makinede "4" rakamına tikla
+* Makinede "5" rakamına tikla
+* Makinede "6" rakamına tikla
+* Makinede "7" rakamına tikla
+* Makinede "8" rakamına tikla
+* Makinede "9" rakamına tikla
+* Elementine tıkla "toplamaIsaretiButon"
+* Makinede "1" rakamına tikla
+* Elementine tıkla "esittirIsaretiButon"
+* "3" saniye bekle
+* Islem sonucunu dogrula "123456789123456790"
+
+# Buyuk Sayilar Ile Cikarma Islemi
+* "1" saniye bekle
+* Makinede "1" rakamına tikla
+* Makinede "2" rakamına tikla
+* Makinede "3" rakamına tikla
+* Makinede "4" rakamına tikla
+* Makinede "5" rakamına tikla
+* Makinede "6" rakamına tikla
+* Makinede "7" rakamına tikla
+* Makinede "8" rakamına tikla
+* Makinede "9" rakamına tikla
+* Makinede "1" rakamına tikla
+* Makinede "2" rakamına tikla
+* Makinede "3" rakamına tikla
+* Makinede "4" rakamına tikla
+* Makinede "5" rakamına tikla
+* Makinede "6" rakamına tikla
+* Makinede "7" rakamına tikla
+* Makinede "8" rakamına tikla
+* Makinede "9" rakamına tikla
+* Elementine tıkla "cikarmaIsaretiButon"
+* Makinede "1" rakamına tikla
+* Makinede "2" rakamına tikla
+* Makinede "3" rakamına tikla
+* Makinede "4" rakamına tikla
+* Makinede "5" rakamına tikla
+* Makinede "6" rakamına tikla
+* Makinede "7" rakamına tikla
+* Makinede "8" rakamına tikla
+* Makinede "9" rakamına tikla
+* Makinede "1" rakamına tikla
+* Makinede "2" rakamına tikla
+* Makinede "3" rakamına tikla
+* Makinede "4" rakamına tikla
+* Makinede "5" rakamına tikla
+* Makinede "6" rakamına tikla
+* Makinede "7" rakamına tikla
+* Makinede "8" rakamına tikla
+* Makinede "6" rakamına tikla
+* "1" saniye bekle
+* Elementine tıkla "esittirIsaretiButon"
+* "2" saniye bekle
+* Islem sonucunu dogrula "3"
+
+# Pozitif Sayilar Ile Carpma Islemi
+* "1" saniye bekle
+* Makinede "7" rakamına tikla
+* Elementine tıkla "carpmaIsaretiButon"
+* Makinede "7" rakamına tikla
+* Elementine tıkla "esittirIsaretiButon"
+* "2" saniye bekle
+* Islem sonucunu dogrula "49"
